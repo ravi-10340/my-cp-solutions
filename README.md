@@ -4,8 +4,6 @@ This repository contains my personal solutions to programming challenges from po
 
 - [LeetCode](https://leetcode.com/u/ravi_10340/)
 - [CodeForces](https://codeforces.com/profile/ravi_10340)
-- [CodeChef](https://www.codechef.com/users/ravi_10340)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/ravinarwz69m/)
 
 
 ## 📂 Structure
