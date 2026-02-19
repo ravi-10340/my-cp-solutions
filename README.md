@@ -10,3 +10,15 @@ This repository contains my personal solutions to programming challenges from po
 
 Problems are organized by platform and further categorized by topic or contest where possible:
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/ravi-10340/my-cp-solutions/tree/master/0696-count-binary-substrings) |
+## String
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/ravi-10340/my-cp-solutions/tree/master/0696-count-binary-substrings) |
+<!---LeetCode Topics End-->
