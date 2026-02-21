@@ -20,6 +20,7 @@ Problems are organized by platform and further categorized by topic or contest w
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ravi-10340/my-cp-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/ravi-10340/my-cp-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/ravi-10340/my-cp-solutions/tree/master/0761-special-binary-string) |
 ## Divide and Conquer
@@ -29,6 +30,7 @@ Problems are organized by platform and further categorized by topic or contest w
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ravi-10340/my-cp-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0761-special-binary-string](https://github.com/ravi-10340/my-cp-solutions/tree/master/0761-special-binary-string) |
 ## Math
 |  |
@@ -38,4 +40,20 @@ Problems are organized by platform and further categorized by topic or contest w
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ravi-10340/my-cp-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Hash Table
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ravi-10340/my-cp-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ravi-10340/my-cp-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ravi-10340/my-cp-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ravi-10340/my-cp-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
