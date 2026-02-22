@@ -23,6 +23,7 @@ Problems are organized by platform and further categorized by topic or contest w
 | [0451-sort-characters-by-frequency](https://github.com/ravi-10340/my-cp-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/ravi-10340/my-cp-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/ravi-10340/my-cp-solutions/tree/master/0761-special-binary-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravi-10340/my-cp-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,4 +57,8 @@ Problems are organized by platform and further categorized by topic or contest w
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ravi-10340/my-cp-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravi-10340/my-cp-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
