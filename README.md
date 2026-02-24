@@ -85,4 +85,16 @@ Problems are organized by platform and further categorized by topic or contest w
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ravi-10340/my-cp-solutions/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ravi-10340/my-cp-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ravi-10340/my-cp-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ravi-10340/my-cp-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
