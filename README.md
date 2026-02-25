@@ -97,4 +97,8 @@ Problems are organized by platform and further categorized by topic or contest w
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ravi-10340/my-cp-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ravi-10340/my-cp-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
