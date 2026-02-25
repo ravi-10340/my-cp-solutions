@@ -18,6 +18,7 @@ Problems are organized by platform and further categorized by topic or contest w
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ravi-10340/my-cp-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0696-count-binary-substrings](https://github.com/ravi-10340/my-cp-solutions/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/ravi-10340/my-cp-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -101,4 +102,5 @@ Problems are organized by platform and further categorized by topic or contest w
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/ravi-10340/my-cp-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ravi-10340/my-cp-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
