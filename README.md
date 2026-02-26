@@ -31,6 +31,7 @@ Problems are organized by platform and further categorized by topic or contest w
 | [0451-sort-characters-by-frequency](https://github.com/ravi-10340/my-cp-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/ravi-10340/my-cp-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/ravi-10340/my-cp-solutions/tree/master/0761-special-binary-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ravi-10340/my-cp-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi-10340/my-cp-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ravi-10340/my-cp-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ravi-10340/my-cp-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -52,6 +53,7 @@ Problems are organized by platform and further categorized by topic or contest w
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ravi-10340/my-cp-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ravi-10340/my-cp-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi-10340/my-cp-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Table
 |  |
@@ -118,4 +120,8 @@ Problems are organized by platform and further categorized by topic or contest w
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ravi-10340/my-cp-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ravi-10340/my-cp-solutions/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ravi-10340/my-cp-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->
