@@ -49,12 +49,14 @@ Problems are organized by platform and further categorized by topic or contest w
 | ------- |
 | [0013-roman-to-integer](https://github.com/ravi-10340/my-cp-solutions/tree/master/0013-roman-to-integer) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ravi-10340/my-cp-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ravi-10340/my-cp-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ravi-10340/my-cp-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ravi-10340/my-cp-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ravi-10340/my-cp-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ravi-10340/my-cp-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,4 +126,5 @@ Problems are organized by platform and further categorized by topic or contest w
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ravi-10340/my-cp-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ravi-10340/my-cp-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
